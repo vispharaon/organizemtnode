@@ -1,0 +1,26 @@
+{
+  "name": "organizemt",
+  "version": "1.0.0",
+  "description": "\"RESTfull Api for Organize My Time\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vispharaon/organizemtnode.git"
+  },
+  "keywords": [
+    "RESTFull",
+    "Api",
+    "Small",
+    "project"
+  ],
+  "author": "Amar Hajro",
+  "license": "SEE LICENSE IN license",
+  "bugs": {
+    "url": "https://github.com/vispharaon/organizemtnode/issues"
+  },
+  "homepage": "https://github.com/vispharaon/organizemtnode#readme",
+  "dependencies": {}
+}
