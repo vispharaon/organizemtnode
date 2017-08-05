@@ -1,7 +1,7 @@
 {
   "name": "organizemt",
   "version": "1.0.0",
-  "description": "\"RESTfull Api for Organize My Time\"",
+  "description": "\"RESTful Api for Organize My Time\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +22,10 @@
     "url": "https://github.com/vispharaon/organizemtnode/issues"
   },
   "homepage": "https://github.com/vispharaon/organizemtnode#readme",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
 }
