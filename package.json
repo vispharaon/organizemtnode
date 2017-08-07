@@ -25,7 +25,9 @@
   },
   "homepage": "https://github.com/vispharaon/organizemtnode#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "cors": "^2.8.4",
+    "express": "^4.15.3",
+    "mysql": "^2.14.1"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
